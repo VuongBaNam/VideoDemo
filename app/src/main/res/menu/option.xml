@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_add"
+        android:icon="@drawable/add"
+        android:title="Thêm mới"
+        android:showAsAction="always|withText"
+        />
+    <item android:id="@+id/menu_sell"
+        android:icon="@drawable/agenda"
+        android:title="Bán hàng"
+        android:showAsAction="always|withText"
+        />
+</menu>
